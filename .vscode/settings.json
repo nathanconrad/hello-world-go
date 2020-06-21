@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+  },
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.trimAutoWhitespace": true,
+  "files.eol": "\r\n"
+}
